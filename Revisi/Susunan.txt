@@ -1,0 +1,29 @@
+Sistematika penulisan
+Halaman Judul
+Lembar Pengesahan
+Kata Pengantar
+Daftar Isi
+Daftar Simbol
+Daftar Tabel
+Daftar Gambar
+Daftar Lampiran
+BAB I PENDAHULUAN
+1. Latar Belakang
+2. Identifikasi Masalah
+3. Maksud
+4. Tujuan
+5. Teknik Pengumpulan Data
+6. Sistematika Penulisan
+7. Lokasi Praktik Kerja Industri
+BAB II LANDASAN TEORI
+1. Konsep Dasar Teori
+2. Rancang Bangun
+3. E-Commerce
+4. Laravel
+5. Web Server
+6. Pemodelan Sistem UML
+7. Peralatan Pendukung
+8. Edraw Max
+9. Canva
+10. Visual Studio Code
+11. XAMPP

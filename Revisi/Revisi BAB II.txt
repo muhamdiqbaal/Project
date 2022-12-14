@@ -1,0 +1,26 @@
+para pemilik e commerce yang rata rata usaha 
+
+maksud nya fokus di judul agar kebih memahami proses, daalam hal ini target membuat laporan ini penulis diharapkan mampu memahami proses dalam aplikasi e - commerce
+prosedur prosedur apa saja  yang dibutuhkan untuk membangun aplikasi ini
+fokus ke tema
+intinya bagaimana menerangkan dalam membuat sesuatu itu dengan karya ilmiah 
+maksud dalam membuat laporan 
+
+
+susunan bab
+2.1 Konsep Dasar Teori
+2.1.1 rancang bangun
+2.1.2 aplikasi e-commerce 
+2.1.3 Laravel
+2.1.4 Web Server
+2.1.5 Pemodelan sistem UML
+	- Usecase Diagram
+	-Activity Diagram
+	- Sequence Diagram
+	- Class Diagram
+2.2 Tool Pendukung
+2.2.1 EdrawMax
+2.2.2 Canva
+2.2.3 Visual Studio Code
+2.2.4 XAMPP
+ 
